@@ -1,8 +1,15 @@
 # Developer-Journey
-
-Project Apex
+This repo is to track my progress and manage my projects that will sharpen my skills as a software engineer. This is a roadmap to becoming a professional Software Engineer. For this project, one fundamental rule exists... I must commit at least ONCE a day. This repo will act as a journal of my journey and an arena for me to better my skills  and overcome obstacles. 
+Start date 14/07/2016
+(Project Apex)
 
 ---
+
+
+
+
+---
+## ROADMAP
 | Stage | Project                                  | Skills                               |
 | ----- | ---------------------------------------- | ------------------------------------ |
 | 1     | **F1 Race Weekend Tracker**              | C#, OOP, Collections, File I/O, Git  | 
@@ -35,6 +42,10 @@ The user should eventually be able to:
 - Search races
 - Filter races
 - Generate statistics
+
+
+---
+NOTES AFTER EACH SPIRNT
 
 
 
