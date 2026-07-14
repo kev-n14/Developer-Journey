@@ -26,15 +26,15 @@ Build a console application that helps an F1 fan keep track of a race weekend.
 
 The user should eventually be able to:
 
--View upcoming races
--View session times
--Add favourite drivers
--Record race results
--View championship standings
--Save data to files
--Search races
--Filter races
--Generate statistics
+- View upcoming races
+- View session times
+- Add favourite drivers
+- Record race results
+- View championship standings
+- Save data to files
+- Search races
+- Filter races
+- Generate statistics
 
 
 
