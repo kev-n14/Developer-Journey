@@ -15,3 +15,33 @@ Project Apex
 | 8     | **Catholic Daily Companion (Pax Tecum)** | Full Stack, React, Authentication    | 
 | 9     | **Pax Press Website**                    | E-commerce, CMS, Payments            | 
 | 10    | **F1 Fantasy Analytics Platform**        | Architecture, Cloud, Docker          | 
+
+
+
+----
+## Project F1 Race Weekend Tracker
+Project brief
+
+Build a console application that helps an F1 fan keep track of a race weekend.
+
+The user should eventually be able to:
+
+-View upcoming races
+-View session times
+-Add favourite drivers
+-Record race results
+-View championship standings
+-Save data to files
+-Search races
+-Filter races
+-Generate statistics
+
+
+
+
+
+
+
+
+
+
