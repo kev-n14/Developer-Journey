@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\bin\Debug\net9.0\F1RaceWeekenedTracker.exe
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\bin\Debug\net9.0\F1RaceWeekenedTracker.deps.json
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\bin\Debug\net9.0\F1RaceWeekenedTracker.runtimeconfig.json
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\bin\Debug\net9.0\F1RaceWeekenedTracker.dll
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\bin\Debug\net9.0\F1RaceWeekenedTracker.pdb
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.AssemblyInfo.cs
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.sourcelink.json
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.dll
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\refint\F1RaceWeekenedTracker.dll
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.pdb
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\F1RaceWeekenedTracker.genruntimeconfig.cache
+C:\Users\kevin\Documents\1.Developer-Journey\Software\Projects\Developer-Journey\01-F1-Race-Weekend-Tracker\F1RaceWeekenedTracker\obj\Debug\net9.0\ref\F1RaceWeekenedTracker.dll
