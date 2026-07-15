@@ -1,7 +1,8 @@
 # Developer-Journey
-This repo is to track my progress and manage my projects that will sharpen my skills as a software engineer. This is a roadmap to becoming a professional Software Engineer. For this project, one fundamental rule exists... I must commit at least ONCE a day. This repo will act as a journal of my journey and an arena for me to better my skills  and overcome obstacles. 
-Start date 14/07/2016
-(Project Apex)
+Developer Journey is my long-term software engineering portfolio. It documents my progress as I develop professional software engineering skills through real-world projects, consistent practice, and continuous learning. This is a roadmap to becoming a professional Software Engineer. For this project, one fundamental rule exists... I must commit at least ONCE a day. This repo will act as a journal of my journey and an arena for me to better my skills  and overcome obstacles. 
+Start date 14/07/2026
+
+Project Apex is my personal software engineering journey with the goal of becoming a professional full-stack developer through building production-quality applications.
 
 ---
 
@@ -47,7 +48,17 @@ The user should eventually be able to:
 ---
 NOTES AFTER EACH SPIRNT
 
+Sprint 1
 
+What I learned
+
+Challenges
+
+How I solved them
+
+Things to improve
+
+Next Sprint
 
 
 
