@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("F1RaceWeekenedTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d67476135aa6831873d75e5f5c99dd24a1bf82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e6c5852d51b13ae93b99e8df703ce7629abee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("F1RaceWeekenedTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("F1RaceWeekenedTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

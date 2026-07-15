@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7755BC-BC42-44C7-BB66-B8D93A067C37}|F1RaceWeekenedTracker.csproj|c:\\users\\kevin\\documents\\1.developer-journey\\software\\projects\\developer-journey\\01-f1-race-weekend-tracker\\f1raceweekenedtracker\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E7755BC-BC42-44C7-BB66-B8D93A067C37}|F1RaceWeekenedTracker.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7755BC-BC42-44C7-BB66-B8D93A067C37}|F1RaceWeekenedTracker.csproj|c:\\users\\kevin\\documents\\1.developer-journey\\software\\projects\\developer-journey\\01-f1-race-weekend-tracker\\f1raceweekenedtracker\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E7755BC-BC42-44C7-BB66-B8D93A067C37}|F1RaceWeekenedTracker.csproj|solutionrelative:readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-15T14:11:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T14:08:23.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
