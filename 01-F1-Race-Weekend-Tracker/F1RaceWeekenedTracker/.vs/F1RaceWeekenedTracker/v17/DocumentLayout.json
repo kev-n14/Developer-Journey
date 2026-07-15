@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7755BC-BC42-44C7-BB66-B8D93A067C37}|F1RaceWeekenedTracker.csproj|c:\\users\\kevin\\onedrive\\documents\\1.developer-journey\\software\\projects\\developer-journey\\01-f1-race-weekend-tracker\\f1raceweekenedtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7755BC-BC42-44C7-BB66-B8D93A067C37}|F1RaceWeekenedTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:42:29.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
