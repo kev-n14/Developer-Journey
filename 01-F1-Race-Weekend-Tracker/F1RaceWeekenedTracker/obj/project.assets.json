@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\F1RaceWeekenedTracker.csproj",
-      "projectName": "F1RaceWeekenedTracker",
-      "projectPath": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\F1RaceWeekenedTracker.csproj",
+      "projectUniqueName": "c:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\F1RaceWeekendTracker.csproj",
+      "projectName": "F1RaceWeekendTracker",
+      "projectPath": "c:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\F1RaceWeekendTracker.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\obj\\",
+      "outputPath": "c:\\Users\\kevin\\Documents\\1.Developer-Journey\\Software\\Projects\\Developer-Journey\\01-F1-Race-Weekend-Tracker\\F1RaceWeekenedTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
