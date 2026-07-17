@@ -9,11 +9,10 @@ public class Circuit
     public string City { get; set; }
     public string Country { get; set; }
     public double LengthOfTrack { get; set; }
-    
-    
-    public Circuit()
-	{
-	 
 
-	}
+
+    public override string ToString()
+    {
+        return $"{CircuitName} ({Country})";
+    }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using static Race;
 
 namespace MyApp
 {
@@ -19,22 +20,24 @@ namespace MyApp
             Race RoundOne = new Race
             {
                 RoundNumber = 1,
-                LengthOfTrack = silverstone.LengthOfTrack,
-                RaceFormat = new string[] { "Sprint", "Main" },
+                Circuit = silverstone,
+                //RaceType.Sprint,
                 NumberOfLaps = 52
 
             };
+            DisplayCircuitInfo(silverstone);
 
-            Console.WriteLine($"Round Number: {RoundOne.RoundNumber}");
 
-            Console.WriteLine($"Circuit Name: {silverstone.CircuitName}");
-            Console.WriteLine($"City: {silverstone.City}");
-            Console.WriteLine($"Country: {silverstone.Country}");
-            Console.WriteLine($"Track Length: {silverstone.LengthOfTrack}");
 
-            Console.WriteLine($"Race Format: {RoundOne.RaceFormat[0]}");
-            Console.WriteLine($"Number of Laps: {RoundOne.NumberOfLaps}");
-            Console.ReadLine();
+        }
+
+        static void DisplayCircuitInfo(Circuit circuit)
+        {
+            Console.WriteLine($"Circuit ID: {circuit.CircuitId}");
+            Console.WriteLine($"Circuit Name: {circuit.CircuitName}");
+            Console.WriteLine($"City: {circuit.City}");
+            Console.WriteLine($"Country: {circuit.Country}");
+            Console.WriteLine($"Length of Track: {circuit.LengthOfTrack} km");
         }
     }
 }
