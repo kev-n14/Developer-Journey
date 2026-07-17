@@ -14,14 +14,15 @@ public class Race
 
     }
 
-    List<Race>season = new List<Race>();
+    
     public int RoundNumber { get; set; }
-    public Circuit Circuit { get; set; } = new Circuit();
+    public Circuit Circuit { get; set; } = new Circuit();// refence to Circuit
     //property use peoperties over fields for more flexibility
-    public RaceType[] raceType { get; set; }
+    public RaceType raceType { get; set; }
     public SessionType[] Sessions { get; set; }
     public int NumberOfLaps { get; set; }
+    public DateTime RaceDate { get; set; }
 
 
-   
+
 }
